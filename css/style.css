@@ -1,6 +1,7 @@
 :root {--mavi-color: #6bc1f1;}
 header {background: url(../img/header-bg.jpg) center/cover;}
 .bg-mavi {background-color: var(--mavi-color) ;}
+.bg-goy{background-color: #072035;}
 .txt-mavi {color: var(--mavi-color);}
 .vh-50 {height: 50vh;}
 .vh-40 {height: 40vh;}
