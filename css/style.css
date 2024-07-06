@@ -8,10 +8,8 @@ header {background: url(../img/header-bg.jpg) center/cover;}
 .w-33{width: 33%;}
 #img1 {background: url("../img/img1.jpg") center/cover;}
 #img2 {background: url("../img/img2.jpg") center/cover;}
-#img1:hover,
-#img2:hover{opacity: .6;}
-#img1:hover h4,
-#img2:hover h4{display: initial !important;}
+#img1:hover, #img2:hover{opacity: .6;}
+#img1:hover h4, #img2:hover h4{display: initial !important;}
 #gallery img{object-fit: cover;}
 #people img{height: 40px;}
 #people .active img{height: 60px;}
